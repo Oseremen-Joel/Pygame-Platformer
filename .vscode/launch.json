@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug Pygame",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/Game.py",
+            "console": "integratedTerminal"
+        }
+    ] 
+}

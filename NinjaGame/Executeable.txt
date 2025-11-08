@@ -1,0 +1,6 @@
+1. Install PyInstaller module using pip ('pip install PyInstaller')
+2. navigate to the folder where the game is (using 'cd {Folder}' to move to the next folder)
+3. Run 'PyInstaller Game.py --noconsole'
+4. Go to the game folder in file explorer and select data and scripts
+5. copy and paste the data and script folders into the same folder as the game.exe file
+6. send the game folder to a zip file
